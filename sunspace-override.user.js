@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sunspace Projects Override (TEST ENV)
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Override /projects API response for testing
 // @author       Ассизи
 // @match        https://app.sunspacecrm.com.br/*
