@@ -13,7 +13,7 @@
 // ==/UserScript==
 
 (function () {
-    const TARGET_URL = "https://api.sunspacecrm.com.br/projects";
+    const TARGET_URL = "https://api.sunspacecrm.com.br/project";
 
     function log(...args) {
         console.log("[TM Projects Override]", ...args);
