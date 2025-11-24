@@ -8,8 +8,8 @@
 // @run-at       document-start
 // @grant        none
 
-// @updateURL    https://raw.githubusercontent.com/seu-usuario/seu-repo/main/sunspace-override.user.js
-// @downloadURL  https://raw.githubusercontent.com/seu-usuario/seu-repo/main/sunspace-override.user.js
+// @updateURL    https://raw.githubusercontent.com/assisjp/tamper-sun/master/sunspace-override.user.js
+// @downloadURL  https://raw.githubusercontent.com/assisjp/tamper-sun/master/sunspace-override.user.js
 // ==/UserScript==
 
 (function () {
