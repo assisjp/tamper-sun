@@ -1,19 +1,19 @@
 // ==UserScript==
 // @name         Sunspace Projects Override (TEST ENV)
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.1
 // @description  Override /projects API response for testing
 // @author       Ассизи
 // @match        https://app.sunspacecrm.com.br/*
 // @run-at       document-start
 // @grant        none
-
 // @updateURL    https://raw.githubusercontent.com/assisjp/tamper-sun/master/sunspace-override.user.js
 // @downloadURL  https://raw.githubusercontent.com/assisjp/tamper-sun/master/sunspace-override.user.js
 // ==/UserScript==
 
+
 (function () {
-    const TARGET_URL = "https://api.sunspacecrm.com.br/projects";
+    const TARGET_URL = "https://api.sunspacecrm.com.br/project";
 
     function log(...args) {
         console.log("[TM Projects Override]", ...args);
